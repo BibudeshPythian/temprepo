@@ -1,2 +1,2 @@
 environment=development
-timeout=30
+timeout=60
